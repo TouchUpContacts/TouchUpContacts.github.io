@@ -1,0 +1,61 @@
+# General
+name: TouchUp
+tagline: Nettoyez et améliorez vos contacts en vous amusant
+
+# Jekyll
+exclude: ['Rakefile']
+markdown: redcarpet
+
+# App Store
+appstore_url: https://itunes.apple.com/app/id1128944336
+appstore: <a href="https://itunes.apple.com/app/id1128944336" class="app-store" rel="external nofollow"><img src="/assets/app-store.svg" alt="Download on the App Store"></a>
+appstore_white: <a href="https://itunes.apple.com/app/id1128944336" class="app-store" rel="external nofollow"><img src="/assets/download_appstore_badge.svg" alt="Download on the App Store"></a>
+
+# Screenshots
+screenshots:
+- screenshot01
+- screenshot02
+- screenshot03
+- screenshot04
+- screenshot05
+
+
+# Company Info
+company: TouchUp
+company_website: https://touchupcontacts.github.io
+
+# Emails
+email_press: press@appname.com
+email_contact: contact@appname.com
+email_support: support@appname.com
+
+# Screenshots
+games_contacts_vides_img: ./assets/img-tuiles-jeux-contacts-vides.png
+games_contacts_vides_url: game-jeux-contacts-vides.html
+
+games_domicile_img: ./assets/img-tuiles-jeux-domicile.png
+games_domicile_url: game-jeux-contacts-sans-domicile.html
+
+games_contacts_doubles_img: ./assets/img-tuiles-jeux-fusions.png
+games_contacts_doubles_url: /
+
+games_contacts_doubles_img: ./assets/img-tuiles-jeux-doubles.png
+games_contacts_doubles_url: /
+
+games_contacts_email_solitaire_img: ./assets/img-tuiles-jeux-email-solitaire.png
+games_contacts_email_solitaire_url: /
+
+games_contacts_telephone_solitaire_img: ./assets/img-tuiles-jeux-telephone-solitaire.png
+games_contacts_telephone_solitaire_url: /
+
+games_contacts_moyennes_age_img: ./assets/img-tuiles-jeux-moyenne-age.png
+games_contacts_moyennes_age_url: /
+
+games_contacts_null_img: ./assets/img-tuiles-jeux-null.png
+games_contacts_null_url: /
+
+games_contacts_photos_img: ./assets/img-tuiles-jeux-photos.png
+games_contacts_photos_url: /
+
+games_contacts_sans_nom_img: ./assets/img-tuiles-jeux-sans-nom.png
+games_contacts_sans_nom_url: /
