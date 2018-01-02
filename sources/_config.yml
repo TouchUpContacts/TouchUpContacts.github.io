@@ -28,34 +28,3 @@ company_website: https://touchupcontacts.github.io
 email_press: press@appname.com
 email_contact: contact@appname.com
 email_support: support@appname.com
-
-# Screenshots
-games_contacts_vides_img: ./assets/img-tuiles-jeux-contacts-vides.png
-games_contacts_vides_url: game-jeux-contacts-vides.html
-
-games_domicile_img: ./assets/img-tuiles-jeux-domicile.png
-games_domicile_url: game-jeux-contacts-sans-domicile.html
-
-games_contacts_doubles_img: ./assets/img-tuiles-jeux-fusions.png
-games_contacts_doubles_url: /
-
-games_contacts_doubles_img: ./assets/img-tuiles-jeux-doubles.png
-games_contacts_doubles_url: /
-
-games_contacts_email_solitaire_img: ./assets/img-tuiles-jeux-email-solitaire.png
-games_contacts_email_solitaire_url: /
-
-games_contacts_telephone_solitaire_img: ./assets/img-tuiles-jeux-telephone-solitaire.png
-games_contacts_telephone_solitaire_url: /
-
-games_contacts_moyennes_age_img: ./assets/img-tuiles-jeux-moyenne-age.png
-games_contacts_moyennes_age_url: /
-
-games_contacts_null_img: ./assets/img-tuiles-jeux-null.png
-games_contacts_null_url: /
-
-games_contacts_photos_img: ./assets/img-tuiles-jeux-photos.png
-games_contacts_photos_url: /
-
-games_contacts_sans_nom_img: ./assets/img-tuiles-jeux-sans-nom.png
-games_contacts_sans_nom_url: /

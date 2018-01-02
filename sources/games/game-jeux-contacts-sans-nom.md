@@ -3,7 +3,7 @@ layout: game
 title: TouchUp, le jeu des contacts sans domiciles
 description: Avec TouchUp améliorez vos contacts, dans ce jeu l'application vous aide à trouver vos contacts vides
 imageUrl: ../assets/img-tuiles-jeux-domicile.png
-pageUrl: /games/game-jeux-contacts-sans-domicile.html
+pageUrl: /games/game-jeux-contacts-sans-domicile
 ---
 ### TouchUp, le jeu des contacts sans domicile
 Vous n'avez pas d'adresse pour chacun de vos contacts mais on vous aide à trouver ceux qui vous manque.
