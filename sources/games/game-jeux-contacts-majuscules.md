@@ -5,7 +5,5 @@ description: Avec TouchUp améliorez vos contacts, dans ce jeu l'application vou
 imageUrl: ../assets/illustr-pages-vides-bonus.png
 pageUrl: /games/game-jeux-contacts-majuscules.html
 ---
-### TouchUp, le jeu pour mettre des majuscules
+### <img src=../assets/illustr-pages-vides-bonus.png height="50" width="50" style="vertical-align:middle;> TouchUp, le jeu pour mettre des majuscules
 C'est plus joli, non ?
-
-<img src=../assets/illustr-pages-vides-bonus.png>

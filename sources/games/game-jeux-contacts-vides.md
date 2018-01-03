@@ -5,7 +5,5 @@ description: Avec TouchUp améliorez vos contacts, dans ce jeu l'application vou
 imageUrl: ../assets/img-tuiles-jeux-contacts-vides.png
 pageUrl: games/games-jeux-contacts-vides.html
 ---
-### TouchUp, le jeu des contacts vides
+### <img src=../assets/img-tuiles-jeux-contacts-vides.png height="50" width="50" style="vertical-align:middle;> TouchUp, le jeu des contacts vides
 Vous avez des contacts vides, sans aucune information, notre application vous aide à les trouver et à les supprimer.
-
-<img src=../assets/img-tuiles-jeux-contacts-vides.png>

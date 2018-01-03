@@ -17,5 +17,7 @@ js:
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="fb-page" data-href="https://www.facebook.com/pg/TouchUpContacts" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/pg/TouchUpContacts" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/pg/TouchUpContacts">TouchUp</a></blockquote></div>
-
+</br>
+<p>
 Avec TouchUp, vous nettoyez et améliorez votre carnet de contacts tout en vous amusant. Faites le tri dans vos contacts en suivant les conseils que l'application.
+</p>

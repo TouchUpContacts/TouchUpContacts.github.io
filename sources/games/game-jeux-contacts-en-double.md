@@ -5,7 +5,5 @@ description: Avec TouchUp améliorez vos contacts, dans ce jeu l'application vou
 imageUrl: ../assets/img-tuiles-jeux-doubles.png
 pageUrl: /games/game-jeux-contacts-email-solitaire.html
 ---
-### TouchUp, le jeu des contacts sans domicile
+### <img src=../assets/img-tuiles-jeux-doubles.png height="50" width="50" style="vertical-align:middle;> TouchUp, le jeu des contacts sans domicile
 Vous avez des contacts identiques dans votre carnet, on va nettoyer ça !
-
-<img src=../assets/img-tuiles-jeux-doubles.png>
