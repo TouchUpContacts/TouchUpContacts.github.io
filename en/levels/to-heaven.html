@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>To Heaven | TouchUp</title>
-  <link rel="stylesheet" type="text/css" href="/app-20190115135922.min.css">
+  <link rel="stylesheet" type="text/css" href="/app-20190128095957.min.css">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"/>
   <meta name="apple-itunes-app" content="app-id=id1128944336">
 </head>
@@ -11,12 +11,32 @@
 <header
     style="background-color:#0ea7e8;background-image:url(/assets/levels/background-level-05.svg)">
     <div class="action-wrapper">
-        <div class="touch-up-logo" id="list-touch-up-logo"></div>
-        <a href="/en/">Home</a>
-        <nav class="lang-selector">
-            <a href="/fr/levels/to-heaven.html">FR</a>
-            <a href="/en/levels/to-heaven.html">EN</a>
-        </nav>
+      <input type="checkbox" id="mainmenu-checkbox"/>
+      <label for="mainmenu-checkbox">
+        <svg width="30" height="30" id="burger-icon">
+          <g fill="#FFF" fill-rule="evenodd">
+            <path d="M4 8h21v2H4zM4 14h21v2H4zM4 20h21v2H4z"/>
+          </g>
+        </svg>
+        <svg width="30" height="30" id="close-icon">
+          <g fill="#FFF" fill-rule="evenodd">
+            <path d="M19.95 8.636l1.414 1.414L10.05 21.364 8.636 19.95z"/>
+            <path d="M19.95 8.636l1.414 1.414L10.05 21.364 8.636 19.95z"/>
+            <path d="M21.364 19.95l-1.414 1.414L8.636 10.05l1.414-1.414z"/>
+          </g>
+        </svg>
+      </label>
+      <nav class="mainmenu">
+        <a href="/en">Home</a>
+        <a href="/en/games.html">The games</a>
+        <a class="active" href="/en/levels.html">The levels</a>
+        <a href="/fr/who-we-are.html" class="mobile">Us</a>
+        <a href="/fr/terms-of-service.html" class="mobile">Terms of service</a>
+      </nav>
+      <nav class="lang-selector">
+          <a href="/fr/levels/to-heaven.html">FR</a>
+          <a href="/en/levels/to-heaven.html">EN</a>
+      </nav>
     </div>
     <img src="/assets/levels/img-level-5-big.svg" alt="To Heaven"/>
 </header>
@@ -29,7 +49,7 @@
       <h1>To Heaven</h1>
       <h2>5/6</h2>
       <p><p>This address book is almost perfect. Few bits here and there and it will be at the top!</p><p>And you, what is your address book level?</p></p>
-      <a href="https://itunes.apple.com/fr/app/touchup-corrigez-vos-contacts/id1128944336?mt=8" class="download-btn">Download the App</a>
+      <a href="https://itunes.apple.com/app/touchup/id1128944336?mt=8" class="download-btn">Download the App</a>
       <iframe identifier="{{levels.to-heaven.video}}"
               width="560"
               height="315"
@@ -55,7 +75,7 @@
         <h3>About</h3>
         <nav>
             <a href="/en/who-we-are.html">Who are we?</a>
-            <a href="https://itunes.apple.com/fr/app/touchup-corrigez-vos-contacts/id1128944336?mt=8">Download TouchUp for iOS</a>
+            <a href="https://itunes.apple.com/app/touchup/id1128944336?mt=8">Download TouchUp for iOS</a>
             <a href="/en/terms-of-service.html">Terms of service</a>
         </nav>
     </section>
@@ -71,6 +91,6 @@
     </section>
 </footer>
 <script src="/libs/bodymovin.light.min.js"></script>
-<script src="/app-20190115135922.min.js"></script>
+<script src="/app-20190128095957.min.js"></script>
 </body>
 </html>
